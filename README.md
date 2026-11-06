@@ -1,26 +1,34 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:5c0a14,50:b3122b,100:ff4d5e&text=MOHAMED%20AZELMAD&fontColor=ffffff&fontSize=54&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20FinTech%20%26%20Artificial%20Intelligence&descSize=18&descAlignY=58&animation=fadeIn" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:5c0a14,100:ff4d5e&text=MOHAMED%20AZELMAD&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20FinTech%20%E2%80%A2%20AI&descSize=20&descAlignY=60" alt="Mohamed Azelmad" />
 
 <div align="center">
 
-<a href="https://github.com/azelmadmohamed">
+<a href="https://azelmad2004.github.io/portfolio/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=E63946&center=true&vCenter=true&width=720&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed+Azelmad;Full-Stack+Developer+%F0%9F%92%BB;Building+FinTech+%26+AI+solutions+%F0%9F%92%B3%F0%9F%A4%96;Economics+%C3%97+Technology+%E2%9A%A1;Madridista+%E2%9A%BD" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Midelt%2C%20Morocco-E63946?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Arabic%20%7C%20Tamazight%20%7C%20French%20%7C%20English-E63946?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Midelt%2C%20Morocco-E63946?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d1117" alt="location" />
+<img src="https://img.shields.io/badge/Arabic%20%7C%20Tamazight%20%7C%20French%20%7C%20English-E63946?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=0d1117" alt="languages" />
 <br/>
-<img src="https://komarev.com/ghpvc/?username=azelmadmohamed&label=PROFILE%20VIEWS&color=E63946&style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/github/followers/azelmadmohamed?label=FOLLOWERS&style=for-the-badge&color=E63946&labelColor=0d1117&logo=github" />
-<img src="https://img.shields.io/github/stars/azelmadmohamed?label=STARS&style=for-the-badge&color=E63946&labelColor=0d1117&logo=github" />
+<img src="https://komarev.com/ghpvc/?username=azelmad2004&label=PROFILE%20VIEWS&color=E63946&style=for-the-badge&labelColor=0d1117" alt="views" />
+<img src="https://img.shields.io/github/followers/azelmad2004?label=FOLLOWERS&style=for-the-badge&color=E63946&labelColor=0d1117&logo=github" alt="followers" />
+<img src="https://img.shields.io/github/stars/azelmad2004?label=STARS&style=for-the-badge&color=E63946&labelColor=0d1117&logo=github" alt="stars" />
+<br/><br/>
+
+<a href="https://azelmad2004.github.io/portfolio/"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20PORTFOLIO-E63946?style=for-the-badge&labelColor=0d1117" alt="portfolio" /></a>
+<a href="https://github.com/azelmad2004"><img src="https://img.shields.io/badge/GITHUB-E63946?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="github" /></a>
+<a href="https://leetcode.com/u/mohmadazelmad/"><img src="https://img.shields.io/badge/LEETCODE-E63946?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117" alt="leetcode" /></a>
+<a href="https://www.researchgate.net/profile/Mohamed-Kmh?ev=hdr_xprf"><img src="https://img.shields.io/badge/RESEARCHGATE-E63946?style=for-the-badge&logo=researchgate&logoColor=white&labelColor=0d1117" alt="researchgate" /></a>
+<a href="https://www.instagram.com/azelmadmohamed04/"><img src="https://img.shields.io/badge/INSTAGRAM-E63946?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" alt="instagram" /></a>
+<a href="https://x.com/a_z_e_l_m_a_d"><img src="https://img.shields.io/badge/X-E63946?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" alt="x" /></a>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider">
 
 <!-- ABOUT -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:5c0a14,100:E63946&text=%F0%9F%94%B4%20ABOUT%20ME&fontColor=ffffff&fontSize=28&fontAlign=50&fontAlignY=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=44&color=0:0d1117,100:E63946&text=%E2%9C%A6%20ABOUT%20ME%20%E2%9C%A6&fontColor=ffffff&fontSize=20&fontAlign=50&fontAlignY=52" alt="ABOUT ME" />
 
 <img align="right" alt="coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
@@ -37,44 +45,47 @@ I'm a **Full-Stack Developer at the intersection of economics and technology**, 
 
 <br/>
 
-<!-- PROJECTS -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:5c0a14,100:E63946&text=%F0%9F%9A%80%20FEATURED%20PROJECTS&fontColor=ffffff&fontSize=28&fontAlign=50&fontAlignY=50" />
-
-<table align="center">
-  <tr>
-    <td width="33%" valign="top" align="center">
-      <img src="https://capsule-render.vercel.app/api?type=cylinder&height=110&color=0:5c0a14,100:E63946&text=QR%20Wallet&fontColor=ffffff&fontSize=26&fontAlignY=50&section=header" width="100%" /><br/>
-      <i>Mobile digital wallet</i>
-      <p align="left">Mobile wallet application for <b>payments by scanning a QR code</b>.</p>
-      <img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" />
-    </td>
-    <td width="33%" valign="top" align="center">
-      <img src="https://capsule-render.vercel.app/api?type=cylinder&height=110&color=0:5c0a14,100:E63946&text=Awal%20GPT&fontColor=ffffff&fontSize=26&fontAlignY=50&section=header" width="100%" /><br/>
-      <i>Final-year project</i>
-      <p align="left">The <b>first AI chatbot for Darija &amp; Amazigh</b>, built on RAG: FAISS vector indexing + contextual LLM answers.</p>
-      <img src="https://skillicons.dev/icons?i=python&theme=dark" />
-      <img src="https://img.shields.io/badge/FAISS-E63946?style=flat-square&labelColor=0d1117" />
-      <img src="https://img.shields.io/badge/LangChain-E63946?style=flat-square&labelColor=0d1117" />
-    </td>
-    <td width="33%" valign="top" align="center">
-      <img src="https://capsule-render.vercel.app/api?type=cylinder&height=110&color=0:5c0a14,100:E63946&text=ServicePub&fontColor=ffffff&fontSize=26&fontAlignY=50&section=header" width="100%" /><br/>
-      <i>In production</i>
-      <p align="left">Digitalizes Moroccan administrative services: secure auth, request management, admin dashboard. <b>Live at Commune de Khénifra.</b></p>
-      <img src="https://skillicons.dev/icons?i=django,react,mysql&theme=dark" />
-    </td>
-  </tr>
-</table>
+<!-- BUILDING -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=44&color=0:0d1117,100:E63946&text=%E2%9C%A6%20CURRENTLY%20BUILDING%20%E2%9C%A6&fontColor=ffffff&fontSize=20&fontAlign=50&fontAlignY=52" alt="CURRENTLY BUILDING" />
 
 <div align="center">
-  <a href="https://github.com/azelmadmohamed?tab=repositories">
-    <img src="https://img.shields.io/badge/SEE%20ALL%20MY%20REPOSITORIES%20%E2%86%92-E63946?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
-  </a>
+
+| 🔴 Project | ⚙️ Stack | 📡 Status |
+|:--|:--|:--:|
+| **Awal GPT** — first AI chatbot for Darija & Amazigh | Python · FAISS · LangChain · RAG | ![](https://img.shields.io/badge/building-E63946?style=flat-square&labelColor=0d1117) |
+| **MyWallet MW** — digital wallet & accounting for SMEs | Django REST · React · PostgreSQL · JWT | ![](https://img.shields.io/badge/building-E63946?style=flat-square&labelColor=0d1117) |
+| **UniStay** — student housing app | Flutter · Dart · Laravel | ![](https://img.shields.io/badge/building-E63946?style=flat-square&labelColor=0d1117) |
+| **ServicePub** — digital public services | Django · React · MySQL | ![](https://img.shields.io/badge/live-2ea043?style=flat-square&labelColor=0d1117) |
+
+</div>
+
+<br/>
+
+<!-- PROJECTS -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=44&color=0:0d1117,100:E63946&text=%E2%9C%A6%20FEATURED%20PROJECTS%20%E2%9C%A6&fontColor=ffffff&fontSize=20&fontAlign=50&fontAlignY=52" alt="FEATURED PROJECTS" />
+
+<div align="center">
+
+<a href="https://github.com/azelmad2004/servicepub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=azelmad2004&repo=servicepub&hide_border=true&bg_color=0d1117&title_color=E63946&icon_color=E63946&text_color=ffffff" alt="servicepub" /></a>
+<a href="https://github.com/azelmad2004/unistay"><img src="https://github-readme-stats.vercel.app/api/pin/?username=azelmad2004&repo=unistay&hide_border=true&bg_color=0d1117&title_color=E63946&icon_color=E63946&text_color=ffffff" alt="unistay" /></a>
+<br/>
+<a href="https://github.com/azelmad2004/fintech_bdarija"><img src="https://github-readme-stats.vercel.app/api/pin/?username=azelmad2004&repo=fintech_bdarija&hide_border=true&bg_color=0d1117&title_color=E63946&icon_color=E63946&text_color=ffffff" alt="fintech_bdarija" /></a>
+<a href="https://github.com/azelmad2004/telintec_gis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=azelmad2004&repo=telintec_gis&hide_border=true&bg_color=0d1117&title_color=E63946&icon_color=E63946&text_color=ffffff" alt="telintec_gis" /></a>
+<br/>
+<a href="https://github.com/azelmad2004/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=azelmad2004&repo=portfolio&hide_border=true&bg_color=0d1117&title_color=E63946&icon_color=E63946&text_color=ffffff" alt="portfolio" /></a>
+
+<br/>
+
+<a href="https://github.com/azelmad2004?tab=repositories">
+  <img src="https://img.shields.io/badge/SEE%20ALL%20REPOSITORIES%20%E2%86%92-E63946?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="repositories" />
+</a>
+
 </div>
 
 <br/>
 
 <!-- STACK -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:5c0a14,100:E63946&text=%F0%9F%9B%A0%EF%B8%8F%20TECH%20STACK&fontColor=ffffff&fontSize=28&fontAlign=50&fontAlignY=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=44&color=0:0d1117,100:E63946&text=%E2%9C%A6%20TECH%20STACK%20%E2%9C%A6&fontColor=ffffff&fontSize=20&fontAlign=50&fontAlignY=52" alt="TECH STACK" />
 
 <div align="center">
 
@@ -98,44 +109,42 @@ I'm a **Full-Stack Developer at the intersection of economics and technology**, 
 </p>
 
 **💻 Languages**<br/>
-<img src="https://skillicons.dev/icons?i=python,js,php,java,c,dart,cs,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,php,java,c,dart,cs,html,css&theme=dark" alt="languages" />
 
 **⚙️ Frameworks**<br/>
-<img src="https://skillicons.dev/icons?i=django,react,nodejs,express,flutter,tailwind,bootstrap,sass&theme=dark" />
+<img src="https://skillicons.dev/icons?i=django,react,nodejs,express,flutter,tailwind,bootstrap,sass&theme=dark" alt="frameworks" />
 
 **🗄️ Databases**<br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,cassandra,mariadb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,cassandra,mariadb&theme=dark" alt="databases" />
 
 **🤖 AI / Data**<br/>
-<img src="https://skillicons.dev/icons?i=sklearn,numpy,pandas&theme=dark" />
-<img src="https://img.shields.io/badge/LangChain-E63946?style=for-the-badge&logo=langchain&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/RAG-E63946?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/FAISS-E63946?style=for-the-badge&labelColor=0d1117" />
+<img src="https://skillicons.dev/icons?i=sklearn,numpy,pandas&theme=dark" alt="ai" />
+<img src="https://img.shields.io/badge/LangChain-E63946?style=for-the-badge&logo=langchain&logoColor=white&labelColor=0d1117" alt="langchain" />
+<img src="https://img.shields.io/badge/RAG-E63946?style=for-the-badge&labelColor=0d1117" alt="rag" />
+<img src="https://img.shields.io/badge/FAISS-E63946?style=for-the-badge&labelColor=0d1117" alt="faiss" />
 
 **🎨 Design**<br/>
-<img src="https://skillicons.dev/icons?i=figma,xd,ai,ps,pr&theme=dark" />
+<img src="https://skillicons.dev/icons?i=figma,xd,ai,ps,pr&theme=dark" alt="design" />
 
 **🧰 Tools & Networking**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,postman,linux,wordpress,arduino&theme=dark" />
-<img src="https://img.shields.io/badge/Cisco-E63946?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/GPON%20Fiber-E63946?style=for-the-badge&labelColor=0d1117" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,linux,wordpress,arduino&theme=dark" alt="tools" />
+<img src="https://img.shields.io/badge/Cisco-E63946?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0d1117" alt="cisco" />
+<img src="https://img.shields.io/badge/GPON%20Fiber-E63946?style=for-the-badge&labelColor=0d1117" alt="gpon" />
 
 **📊 Finance & BI**<br/>
-<img src="https://img.shields.io/badge/Excel%20%2B%20VBA-E63946?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Power%20BI-E63946?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Tableau-E63946?style=for-the-badge&logo=tableau&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Bloomberg-E63946?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Excel%20%2B%20VBA-E63946?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=0d1117" alt="excel" />
+<img src="https://img.shields.io/badge/Power%20BI-E63946?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=0d1117" alt="powerbi" />
+<img src="https://img.shields.io/badge/Tableau-E63946?style=for-the-badge&logo=tableau&logoColor=white&labelColor=0d1117" alt="tableau" />
+<img src="https://img.shields.io/badge/Bloomberg-E63946?style=for-the-badge&labelColor=0d1117" alt="bloomberg" />
 
 </div>
 
 <br/>
 
 <!-- JOURNEY -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:5c0a14,100:E63946&text=%F0%9F%93%8D%20MY%20JOURNEY&fontColor=ffffff&fontSize=28&fontAlign=50&fontAlignY=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=44&color=0:0d1117,100:E63946&text=%E2%9C%A6%20MY%20JOURNEY%20%E2%9C%A6&fontColor=ffffff&fontSize=20&fontAlign=50&fontAlignY=52" alt="MY JOURNEY" />
 
-<details open>
-<summary><b>🔴 &nbsp;Experience</b></summary>
-<br/>
+**🔴 Experience**
 
 | Period | Role | Where |
 |:--|:--|:--|
@@ -143,11 +152,7 @@ I'm a **Full-Stack Developer at the intersection of economics and technology**, 
 | **05/2025 – 06/2025** | Full-Stack Developer (internship) | Commune de Khénifra – Ministry of Interior |
 | **08/2022 – 09/2023** | Graphic Designer & Web Dev Intern | Rawassi Services SARL, Midelt |
 
-</details>
-
-<details>
-<summary><b>🎓 &nbsp;Education</b></summary>
-<br/>
+**🎓 Education**
 
 | Years | Degree | School |
 |:--|:--|:--|
@@ -156,11 +161,7 @@ I'm a **Full-Stack Developer at the intersection of economics and technology**, 
 | **2024 – 2026** | DUT — Software Engineering & Networks *(Très Bien)* | EST Khénifra |
 | **2023 – 2024** | Baccalauréat — Mathematical Sciences | — |
 
-</details>
-
-<details>
-<summary><b>🏆 &nbsp;Leadership & Certifications</b></summary>
-<br/>
+**🏆 Leadership & Certifications**
 
 - 🔴 **Vice-President** — Club Digital EST Khénifra (10/2025 – 05/2026)
 - 🔴 **Creative Media Coordinator** — Moroccan Leadership Seminar (12/2025 – 03/2026)
@@ -168,43 +169,46 @@ I'm a **Full-Stack Developer at the intersection of economics and technology**, 
 - 📜 Bloomberg Market Concepts · FINRA SIE · CoStar CRE Analytics
 - 📜 Cisco Networking Essentials · Meta Front-End (Coursera) · Intel AI Fundamentals · Cloud & DevOps · Scrum Agile
 
-</details>
-
 <br/>
 
 <!-- STATS -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:5c0a14,100:E63946&text=%F0%9F%93%8A%20GITHUB%20STATS&fontColor=ffffff&fontSize=28&fontAlign=50&fontAlignY=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=44&color=0:0d1117,100:E63946&text=%E2%9C%A6%20GITHUB%20%26%20CODING%20STATS%20%E2%9C%A6&fontColor=ffffff&fontSize=20&fontAlign=50&fontAlignY=52" alt="STATS" />
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=azelmadmohamed&show_icons=true&hide_border=true&bg_color=0d1117&title_color=E63946&icon_color=E63946&text_color=ffffff&ring_color=E63946&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azelmadmohamed&layout=compact&hide_border=true&bg_color=0d1117&title_color=E63946&text_color=ffffff" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=azelmad2004&show_icons=true&hide_border=true&bg_color=0d1117&title_color=E63946&icon_color=E63946&text_color=ffffff&ring_color=E63946&count_private=true" alt="github stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azelmad2004&layout=compact&hide_border=true&bg_color=0d1117&title_color=E63946&text_color=ffffff" alt="top languages" />
 
-<img src="https://streak-stats.demolab.com/?user=azelmadmohamed&hide_border=true&background=0d1117&ring=E63946&fire=E63946&currStreakLabel=E63946&currStreakNum=ffffff&sideNums=ffffff&sideLabels=E63946&dates=aaaaaa" />
+<img src="https://streak-stats.demolab.com/?user=azelmad2004&hide_border=true&background=0d1117&ring=E63946&fire=E63946&currStreakLabel=E63946&currStreakNum=ffffff&sideNums=ffffff&sideLabels=E63946&dates=aaaaaa" alt="streak" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=azelmadmohamed&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=azelmad2004&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%" alt="trophies" />
+
+<img src="https://leetcard.jacoblin.cool/mohmadazelmad?theme=dark&font=Fira%20Code&ext=heatmap" alt="leetcode stats" />
 
 </div>
 
 <br/>
 
 <!-- CONTACT -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:5c0a14,100:E63946&text=%F0%9F%93%AB%20LET'S%20CONNECT&fontColor=ffffff&fontSize=28&fontAlign=50&fontAlignY=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=44&color=0:0d1117,100:E63946&text=%E2%9C%A6%20LET'S%20CONNECT%20%E2%9C%A6&fontColor=ffffff&fontSize=20&fontAlign=50&fontAlignY=52" alt="LET'S CONNECT" />
 
 <div align="center">
 
-<a href="mailto:mohmadazelmad3@gmail.com"><img src="https://img.shields.io/badge/Email-E63946?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
-<a href="https://www.linkedin.com/in/mohamed-azelmad-908973281/"><img src="https://img.shields.io/badge/LinkedIn-E63946?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
-<a href="https://www.facebook.com/azelmadmohamedd/"><img src="https://img.shields.io/badge/Facebook-E63946?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d1117" /></a>
-<a href="https://github.com/azelmadmohamed"><img src="https://img.shields.io/badge/GitHub-E63946?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" /></a>
+<a href="mailto:mohmadazelmad3@gmail.com"><img src="https://img.shields.io/badge/Email-E63946?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="email" /></a>
+<a href="https://www.linkedin.com/in/mohamed-azelmad-908973281/"><img src="https://img.shields.io/badge/LinkedIn-E63946?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="linkedin" /></a>
+<a href="https://azelmad2004.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-E63946?style=for-the-badge&labelColor=0d1117" alt="portfolio" /></a>
+<a href="https://github.com/azelmad2004"><img src="https://img.shields.io/badge/GitHub-E63946?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="github" /></a>
+<a href="https://leetcode.com/u/mohmadazelmad/"><img src="https://img.shields.io/badge/LeetCode-E63946?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117" alt="leetcode" /></a>
+<a href="https://www.researchgate.net/profile/Mohamed-Kmh?ev=hdr_xprf"><img src="https://img.shields.io/badge/ResearchGate-E63946?style=for-the-badge&logo=researchgate&logoColor=white&labelColor=0d1117" alt="researchgate" /></a>
+<a href="https://www.instagram.com/azelmadmohamed04/"><img src="https://img.shields.io/badge/Instagram-E63946?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" alt="instagram" /></a>
+<a href="https://x.com/a_z_e_l_m_a_d"><img src="https://img.shields.io/badge/X-E63946?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" alt="x" /></a>
 
 <br/><br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider">
 
 *"Code is the bridge between an idea and its impact."* 🔴
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:ff4d5e,50:b3122b,100:5c0a14" alt="footer" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:ff4d5e,100:5c0a14" alt="footer" />
